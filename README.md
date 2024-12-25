@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sai Narasimha Somesula</h1>
 <h3 align="center">Aspiring Software Development Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sainarasimhasomesula&label=Profile%20views&color=0e75b6&style=flat" alt="sainarasimhasomesula" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Narasimha7076&label=Profile%20views&color=0e75b6&style=flat" alt="sainarasimhasomesula" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Narasimha7076" alt="sainarasimhasomesula" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@sainarasimha" target="blank"><img src="https://img.shields.io/twitter/follow/@sainarasimha?logo=twitter&style=for-the-badge" alt="@sainarasimha" /></a> </p>
 
 - 🔭 I’m currently working on [Email2Event](https://github.com/sainarasimhasomesula/Email2Event) project to automate converting starred emails into Google Calendar events
 
@@ -30,22 +28,7 @@
     <br />
     • Designing, building, delivering, and maintaining software applications and services in cloud, platform, and/or application development areas.
     <br />
-    • Engaged in software lifecycle activities such as requirement analysis, documentation, and implementation.
-    <br /><br />
-    <strong>Activity Analytics</strong> | November 2023
-    <br />
-    Project under Dr. Preeth R, Assistant Professor, IIITDM Kancheepuram
-    <br />
-    • Designed and implemented a data analysis and machine learning pipeline to study the impact of extracurricular activities on career aspirations, processing survey data from 120+ participants.
-    <br />
-    • Conducted dimensionality reduction and built classification models with 90% accuracy.
-    <br /><br />
-    <strong>Movie Verse</strong> | April 2023
-    <br />
-    Project under Dr. Jagadeesh Kakarla, Assistant Professor, IIITDM Kancheepuram
-    <br />
-    • Created a movie review system using MySQL and Bootstrap, with functionalities like movie search and real-time updates.
-</p>
+   </p>
 
 <h3 align="left">Technical Skills:</h3>
 <p align="left">
