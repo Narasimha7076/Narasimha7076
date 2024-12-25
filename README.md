@@ -1,85 +1,42 @@
-# Hey there 👋, I'm Sai Narasimha Somesula!
+<h1 align="center">Hi 👋, I'm Sai Narasimha Somesula</h1>
+<h3 align="center">A passionate Fullstack Web Developer & MBA Candidate in Luxury Brand Management</h3>
 
-Welcome to my GitHub! 🚀 I'm a **full-stack developer** 💻, passionate about **AI**, **data analytics**, and **building cool stuff**. I’m currently a student at **IIITDM Kancheepuram** 🎓, working on exciting projects that merge **tech** with **innovation**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sainarasimhasomesula&label=Profile%20views&color=0e75b6&style=flat" alt="sainarasimhasomesula" /> </p>
 
-🔭 I'm working on [**Email2Event**](https://github.com/yourusername/email2event) – an app that automates turning your starred emails into Google Calendar events. 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainarasimhasomesula" alt="sainarasimhasomesula" /></a> </p>
 
-📚 Always exploring **React.js**, **Node.js**, and **AI** tools to improve my coding journey.
+<p align="left"> <a href="https://twitter.com/@sainarasimha" target="blank"><img src="https://img.shields.io/twitter/follow/@sainarasimha?logo=twitter&style=for-the-badge" alt="@sainarasimha" /></a> </p>
 
-## 🛠️ My Projects
+- 🔭 I’m currently working on [Email2Event](https://github.com/sainarasimhasomesula/Email2Event) project to automate converting starred emails into Google Calendar events
 
-### [Blogify](https://github.com/yourusername/blogify) 🌍📝
-A blogging platform with smooth user authentication and powerful post management. Built with **React.js**, **Redux**, and **Appwrite**.
+- 🌱 I’m currently learning **AI/ML, AWS, Advanced JavaScript**
 
-### [Email2Event](https://github.com/yourusername/email2event) 📧➡️📅
-This web app converts your starred emails into Google Calendar events, saving you tons of time. Built with **Node.js**, **React.js**, **PostgreSQL**, and **Google Calendar API**.
+- 💬 Ask me about **React.js, Node.js, Python, Web Development**
 
-### [Activity Analytics](https://github.com/yourusername/activity-analytics) 📊🤖
-Analyzing how extracurricular activities affect career goals, using **Python**, **Scikit-learn**, and **Pandas**.
+- 📫 How to reach me **sainarasimhasomesula@gmail.com**
 
-### [Movie Verse](https://github.com/yourusername/movie-verse) 🎬
-A platform to search and review movies with dynamic features like real-time content updates. Built with **PHP**, **MySQL**, **Bootstrap**, and **HTML/CSS**.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@sainarasimha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sainarasimha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sainarasimhasomesula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sainarasimhasomesula" height="30" width="40" /></a>
+<a href="https://instagram.com/sainarasimhasomesula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sainarasimhasomesula" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sainarasimha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sainarasimha" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sainarasimhasomesula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sainarasimhasomesula" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+</p>
 
-## 🔥 Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sainarasimhasomesula&show_icons=true&locale=en&layout=compact" alt="sainarasimhasomesula" /></p>
 
-Here’s a sneak peek at the cool tools I work with:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sainarasimhasomesula&show_icons=true&locale=en" alt="sainarasimhasomesula" /></p>
 
-#### **Languages**  
-💻 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
-💻 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
-🐍 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-☕ ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-🛠️ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-🔷 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-#### **Libraries & Frameworks**  
-⚛️ ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-🟩 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-🔄 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)  
-🚀 ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
-🎨 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-
-#### **Databases**  
-🗃️ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
-🔵 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-☁️ ![Appwrite](https://img.shields.io/badge/-Appwrite-000000?logo=appwrite&logoColor=white)
-
-#### **Developer Tools**  
-🧑‍💻 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-🔎 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
-📊 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)  
-🐍 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
-
----
-
-## 📈 Achievements
-
-- 🎯 Ranked **9th** out of 90 students in **CSE** at IIITDM Kancheepuram
-- 🏅 Solved **300+ problems** on **LeetCode**, with a rating of **1602**
-- 🎓 Stood in the **top 2 percentile** in **JEE Main** among 1.3 million candidates
-
----
-
-## 💬 Let's Connect!
-
-Feel free to reach out if you'd like to collaborate or chat about tech! 😊
-
-- 📧 [Email](mailto:sainarasimhasomesula@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- 🦋 [LeetCode](https://leetcode.com/yourleetcode)
-
----
-
-## 🎉 Fun Facts About Me
-
-- I’m a **problem-solving enthusiast** 🔍
-- I love **coding challenges** and **puzzle games** 🎮
-- I always have my **smoothie with nuts and seeds** 🍓🥑 for energy!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
-
----
-
-### [Check out my work and give it a star if you like it! 🌟](https://github.com/yourusername)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sainarasimhasomesula&" alt="sainarasimhasomesula" /></p>
