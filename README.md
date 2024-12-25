@@ -5,21 +5,12 @@
 
 
 
-- 🔭 I’m currently working on [Email2Event](https://github.com/sainarasimhasomesula/Email2Event) project to automate converting starred emails into Google Calendar events
-
-- 🌱 I’m currently learning **AI/ML, AWS, Advanced JavaScript**
-
-- 💬 Ask me about **React.js, Node.js, Python, Web Development**
-
-- 📫 How to reach me **sainarasimhasomesula@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@sainarasimha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sainarasimha" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sainarasimhasomesula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sainarasimhasomesula" height="30" width="40" /></a>
 <a href="https://instagram.com/sainarasimhasomesula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sainarasimhasomesula" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sainarasimha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sainarasimha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sainarasimhasomesula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sainarasimhasomesula" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sainarasimhasomesula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="sainarasimhasomesula" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Experience:</h3>
@@ -57,7 +48,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Narasimha7076&show_icons=true&locale=en&layout=compact" alt="sainarasimhasomesula" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Narasimha7076&show_icons=true&locale=en" alt="sainarasimhasomesula" /></p>
 
