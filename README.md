@@ -53,13 +53,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sainarasimhasomesula" target="blank">
+  <a href="https://www.linkedin.com/in/sai-narasimha-somesula-097181259/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sainarasimhasomesula" height="30" width="40" />
   </a>
   <a href="https://instagram.com/sainarasimhasomesula" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sainarasimhasomesula" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/sainarasimhasomesula" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/47/LeetCode_logo_2021.svg" alt="sainarasimhasomesula" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sainarasimhasomesula" height="30" width="40" />
   </a>
 </p>
