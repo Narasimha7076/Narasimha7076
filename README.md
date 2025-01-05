@@ -12,7 +12,7 @@
 - 🔭 Currently working as a **Digital Technology Intern** at **GE Vernova**, focusing on designing, building, and maintaining software applications and services.  
 - 🌱 Exploring cutting-edge technologies like **AI**, **cloud computing**, and **full-stack development**.  
 - 💡 Passionate about solving **real-world problems** through innovative solutions and contributing to impactful projects.  
-- 🧩 Skilled at **problem-solving**, **explaining concepts**, and **encouraging others after setbacks**.  
+- 🧩 Adept at tackling **complex problems**, articulating ideas clearly, and motivating others to persevere through challenges..  
 
 ---
 
@@ -62,22 +62,17 @@
 
 ## 🏆 Achievements  
 - Ranked highly in **competitive exams** and completed **certifications** in relevant domains.  
-- Developed impactful projects like **Email2Event**, **Movie Verse**, and **Activity Analytics**.  
+- Developed impactful projects like [**Email2Event**](https://github.com/Narasimha7076/Email2Event), **Movie Verse**, and [**Blogify**](https://blogify-x8co-f64gs06qi-narasimha7076s-projects.vercel.app/).  
 
 ---
 
 ## 📂 Projects  
-🌟 [**Email2Event**](https://github.com/your-repo)  
+🌟 [**Email2Event**](https://github.com/Narasimha7076/Email2Event)  
 Converts starred emails into Google Calendar events using **Google Generative AI**, **React.js**, and **Node.js**.  
 
-🌟 [**Movie Verse**](https://github.com/your-repo)  
-A movie recommendation platform leveraging **React.js** and **PostgreSQL**.  
-
-🌟 [**Activity Analytics**](https://github.com/your-repo)  
-Analyzed user activities using **Python** for actionable insights.  
-
-🌟 [**HandTech Canvas**](https://github.com/your-repo)  
-A digital drawing tool developed using **Python** and advanced libraries.  
+🌟 [**Blogify**](https://blogify-x8co-f64gs06qi-narasimha7076s-projects.vercel.app/)  
+**Tech Stack:** React.js, React Router, React Hook Form, Appwrite, Redux, TinyMCE API  
+**Description:** Engineered a multi-user blogging platform enabling robust user authentication and extensive post management.  
 
 ---
 
