@@ -47,17 +47,16 @@ A digital drawing tool developed using **Python** and advanced libraries.
 ---
 
 ## 📊 GitHub Stats  
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sainarasimhasomesula&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainarasimhasomesula&layout=compact&theme=radical)  
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narasimha7076&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimha7076&layout=compact&theme=radical)  
 
 ---
 
 ## 🤝 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/sainarasimhasomesula)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sai-narasimha-somesula-097181259/))  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Narasimha7076)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Narasimha_somesula/)  
 
 ---
 
 📫 **Contact me:** sainarasimhasomesula@gmail.com  
-📞 **Phone:** +91-8919179551  
