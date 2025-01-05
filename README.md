@@ -86,6 +86,7 @@ Converts starred emails into Google Calendar events using **Google Generative AI
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sai-narasimha-somesula-097181259/))  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Narasimha7076)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Narasimha_somesula/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/bablu.narasimha/profilecard/?igsh=MWV3Y2d1b3R0MXVlZQ==)  
 
 ---
 
