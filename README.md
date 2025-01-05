@@ -92,16 +92,16 @@ Converts starred emails into Google Calendar events using **Google Generative AI
 ---
 ## 🤝 Let's Connect!  
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://linkedin.com/in/your-profile" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/sainarasimhasomesula" target="_blank">
+  <a href="https://github.com/sainarasimhasomesula" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/your-profile" target="_blank">
+  <a href="https://leetcode.com/your-profile" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/your-instagram-handle" target="_blank">
+  <a href="https://instagram.com/your-instagram-handle" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
