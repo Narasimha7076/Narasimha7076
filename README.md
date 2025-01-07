@@ -3,7 +3,6 @@
   <h1>👋 Hi there! I'm Sai Narasimha Somesula </h1>
 </div>
 
-# 👋 Hi there! I'm Sai Narasimha Somesula  
 ![Profile Views](https://komarev.com/ghpvc/?username=sainarasimhasomesula&color=blue)
 
 - 🎓 Pursuing **Bachelor's** in Computer Science and Engineering  
