@@ -1,19 +1,24 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    # 👋 Hi there! I'm Sai Narasimha Somesula  
+    ![Profile Views](https://komarev.com/ghpvc/?username=sainarasimhasomesula&color=blue)
+    
+    🎓 **Pursuing Bachelor's in Computer Science and Engineering**  
+    🗓 **Graduation Year:** May 2025  
+    🏫 **Institution:** Indian Institute of Information Technology Kancheepuram  
+    📈 **CGPA:** 8.98/10.0  
+    ---
+    
+    ## 🚀 About Me  
+    - 🔭 Currently working as a **Digital Technology Intern** at **GE Vernova**, focusing on designing, building, and maintaining software applications and services.  
+    - 🌱 Exploring cutting-edge technologies like **AI**, **cloud computing**, and **full-stack development**.  
+    - 💡 Passionate about solving **real-world problems** through innovative solutions and contributing to impactful projects.  
+    - 🧩 Skilled in breaking down **complex problems**, clearly articulating solutions, and inspiring perseverance through challenges.  
+  </div>
+  
+  <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+</div>
 
-# 👋 Hi there! I'm Sai Narasimha Somesula  
-![Profile Views](https://komarev.com/ghpvc/?username=sainarasimhasomesula&color=blue)
-
-🎓 **Pursuing Bachelor's in Computer Science and Engineering**  
-🗓 **Graduation Year:** May 2025  
-🏫 **Institution:** Indian Institute of Information Technology Kancheepuram  
-📈 **CGPA:** 8.98/10.0  
----
-
-## 🚀 About Me
-- 🔭 Currently working as a **Digital Technology Intern** at **GE Vernova**, focusing on designing, building, and maintaining software applications and services.  
-- 🌱 Exploring cutting-edge technologies like **AI**, **cloud computing**, and **full-stack development**.  
-- 💡 Passionate about solving **real-world problems** through innovative solutions and contributing to impactful projects.  
-- 🧩 Adept at tackling **complex problems**, articulating ideas clearly, and motivating others to persevere through challenges..  
 
 ---
 
