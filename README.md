@@ -1,11 +1,11 @@
 # 👋 Hi there! I'm Sai Narasimha Somesula  
 ![Profile Views](https://komarev.com/ghpvc/?username=sainarasimhasomesula&color=blue)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🎓 **Pursuing Bachelor's in Computer Science and Engineering**  
 🗓 **Graduation Year:** May 2025  
 🏫 **Institution:** Indian Institute of Information Technology Kancheepuram  
 📈 **CGPA:** 8.98/10.0  
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ---
 
 ## 🚀 About Me
